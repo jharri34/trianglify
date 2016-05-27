@@ -1,6 +1,6 @@
 {
   "name": "trianglify",
-  "main": "dist/trianglify.min.js",
+  "main": "lib/trianglify.js",
   "homepage": "https://github.com/qrohlf/trianglify",
   "authors": [
     "Quinn Rohlf <qr@qrohlf.com>"
